@@ -8,14 +8,14 @@ As the dataset contains real proprietary data from a German company, **only the 
 
 ## Project Files
 
-The code is provided in Jupyter notebooks:
-[1. Data Exploration](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/1.%20Data%20Exploration.ipynb)
-[2. Data Pre-Processing](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/2.%20Data%20Pre-Processing.ipynb)
-[3. Data Modelling](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/3.%20Data%20Modelling.ipynb)
+The code is provided in Jupyter notebooks:  
+[1. Data Exploration](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/1.%20Data%20Exploration.ipynb)  
+[2. Data Pre-Processing](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/2.%20Data%20Pre-Processing.ipynb)  
+[3. Data Modelling](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/3.%20Data%20Modelling.ipynb)  
 
-The slides used in the final project presentation are also provided, along with the documentation utilised in project milestones:
-[DDM Project Presentation](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/DDMProjectPresentation.pdf)
-[DDM Project Documentation](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/DDMProjectDocumentation.xlsx)
+The slides used in the final project presentation are also provided, along with the documentation utilised in project milestones:  
+[DDM Project Presentation](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/DDMProjectPresentation.pdf)  
+[DDM Project Documentation](https://github.com/Natasha-R/Data-Driven-Modelling-Project/blob/main/DDMProjectDocumentation.xlsx)  
 
 ## Project Results
 
